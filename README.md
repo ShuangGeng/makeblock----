@@ -1,0 +1,1 @@
+将makeblock蓝牙手柄模拟成HID手柄设备，使用makeblock官方7pin或者JDY-07,MX-01p蓝牙模块。需要python运行环境，需要安装vgamepad，pyserial,pyserial-asyncio库
